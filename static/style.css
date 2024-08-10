@@ -1,0 +1,8 @@
+.navbar {
+    justify-content: end;
+}
+.navbar-brand {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
